@@ -8,5 +8,5 @@ node {
     
     stage "Final"
     echo "final"
-  }
-    
+  }   
+}
